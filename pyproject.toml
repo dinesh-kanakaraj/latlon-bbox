@@ -17,8 +17,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/youruser/latlon-bbox"
-Issues = "https://github.com/youruser/latlon-bbox/issues"
+Homepage = "https://github.com/dinesh-kanakaraj/latlon-bbox"
+Issues = "https://github.com/dinesh-kanakaraj/latlon-bbox/issues"
 
 [project.scripts]
 latlon-bbox = "latlon_bbox.bbox:main"
